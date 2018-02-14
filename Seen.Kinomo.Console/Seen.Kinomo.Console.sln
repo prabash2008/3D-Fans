@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seen.Kinomo.Console", "Seen.Kinomo.Console\Seen.Kinomo.Console.csproj", "{9A80950E-68AB-4293-A380-DDE8A21440B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seen.Kinomo.Api", "Seen.Kinomo.Api\Seen.Kinomo.Api.csproj", "{FB725B53-A6CA-43F7-990E-6786200824BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KINO_MO_UI", "KINO_MO_UI\KINO_MO_UI.csproj", "{62992C90-24D0-4FF4-A78B-B0CBFDF4EA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A80950E-68AB-4293-A380-DDE8A21440B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A80950E-68AB-4293-A380-DDE8A21440B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A80950E-68AB-4293-A380-DDE8A21440B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A80950E-68AB-4293-A380-DDE8A21440B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB725B53-A6CA-43F7-990E-6786200824BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB725B53-A6CA-43F7-990E-6786200824BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB725B53-A6CA-43F7-990E-6786200824BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB725B53-A6CA-43F7-990E-6786200824BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62992C90-24D0-4FF4-A78B-B0CBFDF4EA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62992C90-24D0-4FF4-A78B-B0CBFDF4EA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62992C90-24D0-4FF4-A78B-B0CBFDF4EA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62992C90-24D0-4FF4-A78B-B0CBFDF4EA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
